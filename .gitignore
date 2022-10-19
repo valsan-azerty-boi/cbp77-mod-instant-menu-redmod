@@ -1,0 +1,23 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.env
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# VSCode
+.vscode
+
+#macOS
+.DS_Store
+
+#zip
+*.zip
+
+# The packages folder
+**/packed/archive
+**/packed/mods/archives
+**/packed/r6
