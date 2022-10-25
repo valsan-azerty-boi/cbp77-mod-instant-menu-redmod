@@ -1,5 +1,6 @@
 # cbp77-mod-instant-menu-redmod
 ## Simple mod for Cyberpunk 2077: some interactions and menus become instant to launch
+I made this small and simple mod to test the official redmod tool which has just been released with Cyberpunk 2077 version 1.6
 ### Features
 - instant death menu on death
 - instant loot menu when looting
