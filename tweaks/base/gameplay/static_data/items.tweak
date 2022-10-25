@@ -1,0 +1,7 @@
+package items
+
+dropSettings
+{
+	float delayBeforeEnablingLootPickUp = 0.1;
+}
+
